@@ -5,6 +5,8 @@ matplotlib
 catboost
 xgboost
 scikit-learn
+pandas 
+numpy
+dill
 
-
--e .
+# -e .
